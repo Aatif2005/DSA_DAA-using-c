@@ -82,4 +82,6 @@ add_executable(DSA_C
         "LOOPS PROBLEM/gcd_num.c"
         DAA/binarysearch_iterative.c
         DAA/binarysearch_recursion.c
-        DAA/merge_sort.c)
+        DAA/merge_sort.c
+        DAA/binarysearchtree_iterative.c
+        DAA/binarysearchtree_recursive.c)
