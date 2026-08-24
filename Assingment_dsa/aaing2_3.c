@@ -1,0 +1,1 @@
+//A university needs a simple C program to store and display student information. Since the number of students is not known in advance, the program must use dynamic memory allocation. Each student’s details should be grouped using structures for better data organization.
