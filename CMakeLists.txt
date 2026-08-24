@@ -81,4 +81,5 @@ add_executable(DSA_C
         "LOOPS PROBLEM/amstrong.c"
         "LOOPS PROBLEM/gcd_num.c"
         DAA/binarysearch_iterative.c
-        DAA/binarysearch_recursion.c)
+        DAA/binarysearch_recursion.c
+        DAA/merge_sort.c)
