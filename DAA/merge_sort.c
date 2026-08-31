@@ -57,7 +57,7 @@ void merge_sort(int arr[], int low, int high) {
 }
 
 int main() {
-    int nums[] = {50, 20, 40, 10, 30, 60, 80};
+    int nums[] = {100, 1, 50, 25, 75, 10};
     const int n = sizeof(nums) / sizeof(nums[0]);
 
     merge_sort(nums, 0, n - 1);

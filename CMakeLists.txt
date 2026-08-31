@@ -84,4 +84,5 @@ add_executable(DSA_C
         DAA/binarysearch_recursion.c
         DAA/merge_sort.c
         DAA/binarysearchtree_iterative.c
-        DAA/binarysearchtree_recursive.c)
+        DAA/binarysearchtree_recursive.c
+        DAA/quick_sort.c)
