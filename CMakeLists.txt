@@ -86,4 +86,5 @@ add_executable(DSA_C
         DAA/binarysearchtree_iterative.c
         DAA/binarysearchtree_recursive.c
         DAA/quick_sort.c
-        DAA/comparison_normal_strasen_multiplication.c)
+        DAA/comparison_normal_strasen_multiplication.c
+        DAA/lab_exp_5.c)
