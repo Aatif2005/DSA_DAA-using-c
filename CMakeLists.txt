@@ -88,4 +88,7 @@ add_executable(DSA_C
         DAA/quick_sort.c
         DAA/comparison_normal_strasen_multiplication.c
         DAA/lab_exp_5.c
-        DAA/lab_exp_4.c)
+        DAA/lab_exp_4.c
+        bit_stuffing.c
+        DAA/bit_stuffing.c
+        DAA/crc_hamming_code.c)
