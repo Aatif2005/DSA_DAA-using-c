@@ -91,4 +91,8 @@ add_executable(DSA_C
         DAA/lab_exp_4.c
         bit_stuffing.c
         DAA/bit_stuffing.c
-        DAA/crc_hamming_code.c)
+        DAA/crc_hamming_code.c
+        DAA/experiment_7.c
+        DAA/back_tracking_0_1_knapsack.c
+        DAA/branch_bound_0_1_knapsack.c
+        DAA/dp_0_1_knapsack.c)
