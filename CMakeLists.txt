@@ -95,4 +95,7 @@ add_executable(DSA_C
         DAA/experiment_7.c
         DAA/back_tracking_0_1_knapsack.c
         DAA/branch_bound_0_1_knapsack.c
-        DAA/dp_0_1_knapsack.c)
+        DAA/dp_0_1_knapsack.c
+        sum_of_subnest.c
+        DAA/sum_of_subnest.c
+        DAA/n_queen.c)
